@@ -171,13 +171,6 @@ python tests/concurrent_buy.py --base http://<EC2 퍼블릭 IP>:8080 --product 1
 | 데이터 유지 | 정상 | 구매 후 `docker compose restart` | 주문·재고 그대로 유지 | TODO |
 
 ## 5. 기록
-
-### 팀 역할
-
-| 이름 | 역할 |
-|---|---|
-| TODO | TODO |
-
 ### AI 활용
 
 과제 규정에 따라 일반 AI(채팅형)만 사용했고, 에이전틱 코딩 도구는 사용하지 않았습니다.
